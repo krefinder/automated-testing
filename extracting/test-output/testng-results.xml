@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-04T07:05:55 GMT-05:00" name="Automation_Suite" finished-at="2023-05-04T07:06:10 GMT-05:00" duration-ms="14888">
+    <groups>
+    </groups>
+    <test started-at="2023-05-04T07:05:55 GMT-05:00" name="Get_privacy_policy_text_from_webapps" finished-at="2023-05-04T07:06:10 GMT-05:00" duration-ms="14888">
+      <class name="com.web.app.tests.Get_privacy_policy_text_from_webapps_jsoup">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.web.app.tests.Get_privacy_policy_text_from_webapps_jsoup@1a75e76a]" started-at="2023-05-04T07:05:55 GMT-05:00" name="beforeTest" finished-at="2023-05-04T07:06:04 GMT-05:00" duration-ms="9414" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="BeforeClass()[pri:0, instance:com.web.app.tests.Get_privacy_policy_text_from_webapps_jsoup@1a75e76a]" started-at="2023-05-04T07:06:04 GMT-05:00" name="BeforeClass" finished-at="2023-05-04T07:06:04 GMT-05:00" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeClass -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.web.app.tests.Get_privacy_policy_text_from_webapps_jsoup@1a75e76a]" started-at="2023-05-04T07:06:04 GMT-05:00" name="beforeMethod" finished-at="2023-05-04T07:06:04 GMT-05:00" duration-ms="31" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.web.app.tests.Get_privacy_policy_text_from_webapps_jsoup.Get_Privacy_PolicyText_From_WebApps() throws java.io.IOException,javax.mail.MessagingException,java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="Get_Privacy_PolicyText_From_WebApps()[pri:1, instance:com.web.app.tests.Get_privacy_policy_text_from_webapps_jsoup@1a75e76a]" started-at="2023-05-04T07:06:04 GMT-05:00" name="Get_Privacy_PolicyText_From_WebApps" finished-at="2023-05-04T07:06:09 GMT-05:00" duration-ms="4777" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Get_Privacy_PolicyText_From_WebApps -->
+        <test-method is-config="true" signature="AfterTest()[pri:0, instance:com.web.app.tests.Get_privacy_policy_text_from_webapps_jsoup@1a75e76a]" started-at="2023-05-04T07:06:09 GMT-05:00" name="AfterTest" finished-at="2023-05-04T07:06:10 GMT-05:00" duration-ms="563" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTest -->
+      </class> <!-- com.web.app.tests.Get_privacy_policy_text_from_webapps_jsoup -->
+    </test> <!-- Get_privacy_policy_text_from_webapps -->
+  </suite> <!-- Automation_Suite -->
+</testng-results>

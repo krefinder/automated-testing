@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [FC_IOS_App_Automation_Suite]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="com.android.web.listeners.TestListener"/>
+  </listeners>
+  <test thread-count="5" name="Get_privacy_policy_text_from_webapps(failed)">
+    <classes>
+      <class name="com.web.app.tests.Get_privacy_policy_text_from_webapps">
+        <methods>
+          <include name="Get_Privacy_PolicyText_From_WebApps"/>
+          <include name="AfterTest"/>
+          <include name="beforeMethod"/>
+          <include name="BeforeClass"/>
+          <include name="beforeTest"/>
+        </methods>
+      </class> <!-- com.web.app.tests.Get_privacy_policy_text_from_webapps -->
+    </classes>
+  </test> <!-- Get_privacy_policy_text_from_webapps(failed) -->
+</suite> <!-- Failed suite [FC_IOS_App_Automation_Suite] -->

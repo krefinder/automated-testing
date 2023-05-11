@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Automation_Suite">
+	<listeners>
+		<listener
+			class-name="com.android.web.listeners.TestListener" />
+	</listeners>
+
+	<test thread-count="5" name="Get_privacy_policy_text_from_webapps">
+		<classes>
+			      <class name="com.web.app.tests.Get_privacy_policy_text_from_webapps_jsoup"/>
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->

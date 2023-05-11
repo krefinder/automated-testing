@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "daring-keep-365013",
+  "private_key_id": "d22dfcaf4ab1679bbf511e3a5e3fb40c7f2bf882",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCaFzziQ5Ewyqqv\n7BvzhM3gRvqc+ZO8eR4hmTR2PXdqqCrnQfo/xUQR+WsyIjtv0o5aZ7z4C5iQt57b\nzabvitglUQPyWpScqXQMuyGc6Cd11KryAj6r9Wp7e+hHpIcdmDdVm4eTmwkpDAuK\n4nZvvrZ93zVkpBOCVIRhKObhxOirdV9B/NGjOeiH13lvJmcJxHofZAOCIT3EjT8X\n3A0phDSsv7qWKvWFkApSFJ4FeLuC2FD5BZqVOjAEZeJ0eynxL0LoVGT4dIxxcLqS\n1Ot+6X0hbqtmlqsrJK0fcTkSSB4di94KCJIvPoGOIB5CUb8bf0Xf8o2NQhPkNx0s\nLHIxVypHAgMBAAECggEAF+NiXPF8oMPKkltYOfhsskhOsec/MAjW0v6dU3dT/AT2\nIcPot9otI1w3ch48eKl7yCgs84dYr5bH2euX5arwt1hH9Fp2j5L1msOoAls7Qtkl\nZz9R1/bD+0DKUdD/4WanrW3fJtLyKJrlbzKMieZXBEyGSoPlQl835pggsv+D0pCx\n+wdsgr8uW35dWKJ0NWVvZPgaRUkO73SzG0KjFvmyE0IlglRgt3SxZyJNQeV04fL/\n71zXvs+G42zXipfvLXSO2M1M4L53Ikb46U0ZvoM14ut2cAlfGjv3nT6UI00iUfk9\n69jPNnMdf2mmSxYc1r5XrIu7i0oUQJ6kAIFtJWCaAQKBgQDQ1/FZk40D44puy+5e\nXqYBM+1ryxT8G0n44c63X6hnu5mgMEr/YiXVsmIt8KmLLq5U1xbwg6ccggWXcBx9\nHAbrxEJlGu6IbA52RQwH/hGa/vW1uQHYHXitoe+KAT+QN1h2cCe+mpiEIXMM4ilJ\nspQyhZZdc21qEDeLqnMvEdDeUQKBgQC84ll9cvVupzShPTohEBEMNdtmMYV/iBzp\nFafIcaZbVJ7Tu+ZVyi64J95FPdy5nb3ksLp6m0S4ueqzPtb4fS1FeAXDCfy/EFEN\nd/bFYKsF3EpcmDgfKGdqfvaP+gWXMbOb4d9Wn3mLRPy/arsBYchx0ZtHToBqqs3d\nUgPnb87hFwKBgQCqJrXxqGCkwXdhC++6nVyc8ETIpR4ExOsAxmDYUCxxz4u70nzY\nE4wFzp9lFIXd6vuIDfIXpPu7I0gQ+PuNBw+weScrHsUnCvrBa0IBJQQNBxsDoqcY\n//H5bU0vYBL8mcsOPBR1m5kVVfdZkM3YyJErlGFM5CVJ28qVlRrhR5+n8QKBgQC6\nlZI3RS9DXnKz8IqSjI96k10mxzaLs4ZzjYvPisz9nUrD9/JhvraF/gQoPCLlTPh/\nh0C+ytCI9kbtR98NWoI1BIoUj7IXf2PBvUaM1aA7ys++RjPyO3RlFAQ2V5HcOCGn\nk+mOZTyoob5WzHTsuY5LOPZ96wMZ254+ybzHi4A+gwKBgQC0LvMP/6PswyZgEqFS\nJmBx6HmCBzp/+q5URrbyXshsh2pbFA4ixK1hODNI0udsfzItz+En8qt75mxhK/5S\npOMFjxXLlDssZhtnmYtRdqsLYo7hl0+CXxhV/ZtDQYakttVFo+M8fE6tL2Sga1Gk\nrP5Q2xF7j7z+VEmg63gisDCU5g==\n-----END PRIVATE KEY-----\n",
+  "client_email": "new-service-account@daring-keep-365013.iam.gserviceaccount.com",
+  "client_id": "112176212211245181148",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/new-service-account%40daring-keep-365013.iam.gserviceaccount.com"
+}

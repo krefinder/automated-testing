@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+
+
+	<!-- All Error Messages String Text -->
+
+	<String
+		name="Expected_Error_Text_After_enter_wrong_email_and_click_on_Continue_Button">Please enter valid Email ID</String>
+	<String
+		name="Expected_Resend_OTP_Link_Text_After_enter_correct_email_and_click_on_Continue_Button">Resend OTP</String>
+	
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="209.185">
+  <properties />
+  
+  
+            <testcase name="verifyRemoveMember" time="115.808" classname="whistle.WhistleTest" />
+                <testcase name="verifyHelp" time="93.377" classname="whistle.WhistleTest" />
+      
+</testsuite>

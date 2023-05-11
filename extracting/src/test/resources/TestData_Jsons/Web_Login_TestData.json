@@ -1,0 +1,22 @@
+{
+	"invalidUser": {
+		"username": "albert"
+	},
+
+	"validUser": {
+		"username": "albert25.sa"
+		
+	},
+	
+	"invalidPassword": {
+		"password": "Automation@21"
+		
+	},
+	
+	"validPassword": {
+		"password": "Automation@23"
+		
+	}
+	
+	
+}

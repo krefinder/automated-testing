@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+    <line>
+      <![CDATA[<a href='C:\Users\DS\eclipse-workspace\AppRuns\Extent Reports\Passed Screenshots\verifyPictures.png'><img src ='C:\Users\DS\eclipse-workspace\AppRuns\Extent Reports\Passed Screenshots\verifyPictures.png' width='200' height='200'></a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='C:\Users\DS\eclipse-workspace\AppRuns\Extent Reports\Passed Screenshots\testAudioCapture.png'><img src ='C:\Users\DS\eclipse-workspace\AppRuns\Extent Reports\Passed Screenshots\testAudioCapture.png' width='200' height='200'></a>]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="72665" started-at="2023-05-02T14:19:01Z" finished-at="2023-05-02T14:20:13Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="72665" started-at="2023-05-02T14:19:01Z" finished-at="2023-05-02T14:20:13Z">
+      <class name="audioTest.ScreenAudioTests">
+        <test-method status="PASS" signature="startUp()[pri:0, instance:audioTest.ScreenAudioTests@335eadca]" name="startUp" is-config="true" duration-ms="20527" started-at="2023-05-02T19:49:01Z" finished-at="2023-05-02T19:49:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startUp -->
+        <test-method status="PASS" signature="verifyPictures()[pri:1, instance:audioTest.ScreenAudioTests@335eadca]" name="verifyPictures" duration-ms="14156" started-at="2023-05-02T19:49:22Z" finished-at="2023-05-02T19:49:36Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<a href='C:\Users\DS\eclipse-workspace\AppRuns\Extent Reports\Passed Screenshots\verifyPictures.png'><img src ='C:\Users\DS\eclipse-workspace\AppRuns\Extent Reports\Passed Screenshots\verifyPictures.png' width='200' height='200'></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyPictures -->
+        <test-method status="PASS" signature="testAudioCapture()[pri:2, instance:audioTest.ScreenAudioTests@335eadca]" name="testAudioCapture" duration-ms="35775" started-at="2023-05-02T19:49:36Z" finished-at="2023-05-02T19:50:12Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<a href='C:\Users\DS\eclipse-workspace\AppRuns\Extent Reports\Passed Screenshots\testAudioCapture.png'><img src ='C:\Users\DS\eclipse-workspace\AppRuns\Extent Reports\Passed Screenshots\testAudioCapture.png' width='200' height='200'></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testAudioCapture -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:audioTest.ScreenAudioTests@335eadca]" name="tearDown" is-config="true" duration-ms="191" started-at="2023-05-02T19:50:13Z" finished-at="2023-05-02T19:50:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- audioTest.ScreenAudioTests -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
